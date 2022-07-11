@@ -1,4 +1,5 @@
-Full Stack web developer
+Hello👋👋👋 and welcome to my github page. 
+I am Ovie, a mern stack developer😁. 
 
 <!---
 Creative-genius001/Creative-genius001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
